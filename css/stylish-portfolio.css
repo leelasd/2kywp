@@ -223,18 +223,18 @@ hr.small {
 /* Map */
 
 .map {
-    height: 500px;
+    margin: 0 auto;
+    padding: inherit;
 }
 
-@media(max-width:768px) {
+/*@media(max-width:768px) {
     .map {
         height: 75%;
     }
-}
+}*/
 
 /* Footer */
 
 footer {
-    padding-top: 400px;
-    margin: 0 auto;
+margin: 0 auto;
 }
