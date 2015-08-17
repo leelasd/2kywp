@@ -243,7 +243,7 @@ padding: inherit;
 
 
 /*    height: 20;
-    overflow: hidden;/
+   /
 }
 */
 .Flexible-container {
@@ -254,5 +254,6 @@ padding: inherit;
     width: 100%;
     padding-bottom: 5%;
     padding-top: 10%;
+    overflow: hidden;
 }
 
