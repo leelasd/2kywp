@@ -241,21 +241,18 @@ padding: inherit;
 }
 /* Flexible iFrame */
 
-.Flexible-container {
-    position: relative;
-    padding-bottom: 10.25%;
-    padding-top: 10%px;
-}
+
 /*    height: 20;
     overflow: hidden;/
 }
 */
-.Flexible-container iframe,   
- {
-    position: absolute;
+.Flexible-container {
+    padding-bottom: 5%;
+}
+.Flexible-container iframe {
+    position: relative;
     width: 100%;
-    height: 100%;
-    padding-bottom: 10.25%;
-    padding-top: 10%px;
+    padding-bottom: 5%;
+    padding-top: 10%;
 }
 
