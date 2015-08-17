@@ -237,4 +237,5 @@ hr.small {
 
 footer {
 margin: 0 auto;
+padding: inherit;
 }
