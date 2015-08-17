@@ -243,16 +243,15 @@ padding: inherit;
 
 .Flexible-container {
     position: relative;
-    padding-bottom: 16.25%;
-    padding-top: 10px;
+    padding-bottom: 10.25%;
+    padding-top: 10%px;
 }
 /*    height: 20;
     overflow: hidden;/
 }
-
+*/
 .Flexible-container iframe,   
-.Flexible-container object,  
-.Flexible-container embed {
+ {
     position: absolute;
     top: 0;
     left: 0;
